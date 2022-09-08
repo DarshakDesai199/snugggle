@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021604500718",
+    "project_id": "snuggle-6d15e",
+    "storage_bucket": "snuggle-6d15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021604500718:android:c00f84364f148b68674fff",
+        "android_client_info": {
+          "package_name": "com.example.snugggle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021604500718-qan3a5stolil9upscm6uunoua7phvrc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILxB0ujamcNhUHmOUNkAEmzWzj3msh-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021604500718-qan3a5stolil9upscm6uunoua7phvrc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
